@@ -1,0 +1,49 @@
+[
+    {
+        "urun_kodu": "URN-0001",
+        "fiyat": 200.0,
+        "stok": 2,
+        "urun_adi": "Premium Yetişkin Kedi Maması",
+        "kategori": "Evcil Hayvan Ürünleri > Kedi > Kedi Maması",
+        "seo_etiketleri": [
+            "kedi maması",
+            "yetişkin kedi maması",
+            "kuru kedi maması",
+            "premium kedi maması",
+            "tahılsız kedi maması"
+        ],
+        "satis_aciklamasi": "Kedinizin günlük besin ihtiyaçlarını eksiksiz karşılamak üzere formüle edilmiş Premium Yetişkin Kedi Maması. Yüksek kaliteli protein içeriği, zengin vitamin ve mineral dengesi ile bağışıklık sistemini destekler, tüy sağlığını korur ve kolay sindirim sağlar. Sevimli dostunuzun enerji dolu ve sağlıklı bir yaşam sürmesi için ideal seçim."
+    },
+    {
+        "urun_kodu": "URN-0002",
+        "fiyat": 500.0,
+        "stok": 13,
+        "urun_adi": "Ayarlanabilir Zilli Emniyet Kilitli Kedi Tasması",
+        "kategori": "Evcil Hayvan Malzemeleri / Kedi / Tasmalar",
+        "seo_etiketleri": [
+            "kedi tasması",
+            "zilli kedi tasması",
+            "yavru kedi tasması",
+            "güvenli kedi tasması",
+            "ayarlanabilir kedi tasması",
+            "kedi aksesuarları"
+        ],
+        "satis_aciklamasi": "Sevimli dostunuzun hem güvenliği hem de şıklığı için tasarlanmış özel kedi tasması. Acil durumlarda takılmayı önleyen güvenlik kilit mekanizması ve hafif çanı sayesinde kediniz her zaman güvende ve fark edilir olur. Yumuşak, nefes alabilen kumaşı boynunu tahriş etmez ve ayarlanabilir yapısıyla tüm ırklara mükemmel uyum sağlar."
+    },
+    {
+        "urun_kodu": "URN-0003",
+        "fiyat": 240.0,
+        "stok": 13,
+        "urun_adi": "Zarif Gümüş Kolye",
+        "kategori": "Takı & Mücevher",
+        "seo_etiketleri": [
+            "kolye",
+            "kadın kolye",
+            "gümüş kolye",
+            "hediyelik takı",
+            "zarif kolye",
+            "moda aksesuar"
+        ],
+        "satis_aciklamasi": "Şıklığınızı ve zarafetinizi tamamlayacak özel tasarım kolye. Hem günlük kombinlerinizde hem de özel davetlerde tarzınıza ışıltı katmak için ideal bir seçim. Yüksek kaliteli malzemesi, ince işçiliği ve zamansız tasarımı ile sevdikleriniz için de unutulmaz bir hediye alternatifi sunar."
+    }
+]
