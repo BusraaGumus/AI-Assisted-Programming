@@ -17,7 +17,7 @@
     {
         "urun_kodu": "URN-0002",
         "fiyat": 500.0,
-        "stok": 13,
+        "stok": 14,
         "urun_adi": "Ayarlanabilir Zilli Emniyet Kilitli Kedi Tasması",
         "kategori": "Evcil Hayvan Malzemeleri / Kedi / Tasmalar",
         "seo_etiketleri": [
@@ -45,5 +45,21 @@
             "moda aksesuar"
         ],
         "satis_aciklamasi": "Şıklığınızı ve zarafetinizi tamamlayacak özel tasarım kolye. Hem günlük kombinlerinizde hem de özel davetlerde tarzınıza ışıltı katmak için ideal bir seçim. Yüksek kaliteli malzemesi, ince işçiliği ve zamansız tasarımı ile sevdikleriniz için de unutulmaz bir hediye alternatifi sunar."
+    },
+    {
+        "urun_kodu": "URN-0004",
+        "fiyat": 1500.0,
+        "stok": 2,
+        "urun_adi": "Kablosuz Ergonomik Optik Mouse",
+        "kategori": "Bilgisayar & Çevre Birimleri",
+        "seo_etiketleri": [
+            "kablosuz mouse",
+            "optik mouse",
+            "ergonomik fare",
+            "bilgisayar faresi",
+            "sessiz mouse",
+            "laptop aksesuarları"
+        ],
+        "satis_aciklamasi": "Hem iş hem de günlük kullanım için özel olarak tasarlanan bu kablosuz optik mouse, ergonomik yapısı sayesinde el ve bilek yorgunluğunu en aza indirir. Yüksek hassasiyetli sensörü ile tüm yüzeylerde pürüzsüz takip sunarken, uzun pil ömrü ve tak-çalıştır özelliğiyle kesintisiz bir çalışma deneyimi sağlar."
     }
 ]
